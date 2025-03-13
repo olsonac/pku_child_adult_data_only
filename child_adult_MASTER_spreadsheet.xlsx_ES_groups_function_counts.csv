@@ -1,0 +1,35 @@
+"age_group","ES_group","func","N"
+"Adults","ES_large","EF-Inhibitory control-baseline; Language speed",2
+"Adults","ES_large","EF-Reasoning and planning",11
+"Adults","ES_large","EF-Sustained attention",15
+"Adults","ES_large","Language speed",5
+"Adults","ES_large","Visual STM/WM",11
+"Adults","ES_large","Visuo motor control",20
+"Adults","ES_medium","EF-Flexibility-other",29
+"Adults","ES_medium","EF-Flexibility-verbal",16
+"Adults","ES_medium","Verbal STM/WM",19
+"Adults","ES_medium","Verbal memory and learning",20
+"Adults","ES_medium","Visual learning LTM",10
+"Adults","ES_small","EF-Inhibitory control",32
+"Adults","ES_small","EF-Inhibitory control-baseline; Language accuracy",2
+"Adults","ES_small","Language accuracy",17
+"Adults","ES_small","Simple RT-Visuo-spatial",8
+"Adults","ES_small","Visuo-spatial attention acc",13
+"Adults","ES_small","Visuo-spatial skills",12
+"Children","ES_large","EF-Inhibitory control",25
+"Children","ES_large","EF-Inhibitory control-baseline; Language speed",11
+"Children","ES_large","EF-Reasoning and planning",12
+"Children","ES_large","Language speed",6
+"Children","ES_large","Visual learning LTM",5
+"Children","ES_large","Visuo-spatial skills",6
+"Children","ES_medium","EF-Sustained attention",16
+"Children","ES_medium","Verbal memory and learning",19
+"Children","ES_medium","Visual STM/WM",5
+"Children","ES_medium","Visuo motor control",12
+"Children","ES_small","EF-Flexibility-other",25
+"Children","ES_small","EF-Flexibility-verbal",18
+"Children","ES_small","EF-Inhibitory control-baseline; Language accuracy",1
+"Children","ES_small","Language accuracy",3
+"Children","ES_small","Simple RT-Visuo-spatial",5
+"Children","ES_small","Verbal STM/WM",12
+"Children","ES_small","Visuo-spatial attention acc",4
